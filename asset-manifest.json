@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hashim-chatbott/static/css/main.f336be76.css",
+    "main.js": "/hashim-chatbott/static/js/main.04f81102.js",
+    "static/js/453.d183132b.chunk.js": "/hashim-chatbott/static/js/453.d183132b.chunk.js",
+    "index.html": "/hashim-chatbott/index.html",
+    "main.f336be76.css.map": "/hashim-chatbott/static/css/main.f336be76.css.map",
+    "main.04f81102.js.map": "/hashim-chatbott/static/js/main.04f81102.js.map",
+    "453.d183132b.chunk.js.map": "/hashim-chatbott/static/js/453.d183132b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f336be76.css",
+    "static/js/main.04f81102.js"
+  ]
+}
